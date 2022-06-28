@@ -1,0 +1,14 @@
+.calculator {
+ display:grid;
+ grid-template-columns: 24% 24% 24% 24%;
+ grid-gap: 3px;
+}
+
+.entry {
+ grid-column: 1 / span 4;
+ text-align: right;
+}
+
+button {     
+ 
+}
